@@ -1,1 +1,7 @@
 Capstone 2 Final Project
+
+Main files for basis of paper are 2016.ipynb and 2017.ipynb for the 2016 southeastern US and 2017 northern plains flash droughts respectively.
+
+Extracted data can be found in the .nc files of the associated indices
+
+Methods of pulling data from sources are located in the respective index .ipnyb notebooks
